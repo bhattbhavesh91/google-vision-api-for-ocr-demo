@@ -1,9 +1,18 @@
 # Extract Text from image OCR using Google Vision API in Python
-## To view the video
-* [Click here](https://youtu.be/CreUPlWo8TE)
-* Click on the image below
 
-[![Vanishing Gradient explained using Code!](http://img.youtube.com/vi/CreUPlWo8TE/0.jpg)](http://www.youtube.com/watch?v=CreUPlWo8TE)
+## To view the video
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=CreUPlWo8TE" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/CreUPlWo8TE?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
+
+
+[![Extract Text from image OCR using Google Vision API in Python
+](http://img.youtube.com/vi/CreUPlWo8TE/0.jpg)](http://www.youtube.com/watch?v=CreUPlWo8TE)
 
 ## Follow Me
 <a href="https://twitter.com/_bhaveshbhatt" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/tw.png" width="30"></a>
